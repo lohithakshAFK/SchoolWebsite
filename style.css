@@ -5,4 +5,18 @@ h2{
     color:crimson;
     text-shadow:2px;
     border-bottom: 2px;
+    
+   
+}
+#soccer_field{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.navbar-inverse my_nav_bar{
+    
+}
+#my_nav_bar{
+    position:sticky;
+    z-index:99999;
+    top:0;
 }
